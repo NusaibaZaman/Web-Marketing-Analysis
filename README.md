@@ -42,5 +42,5 @@ This dashboard gives marketing teams and stakeholders the ability to:
 
 ## Dataset
 
-The dashboard is based on web analytics data that tracks sessions, conversions, and revenue.  
-- A sample dataset can be provided for testing: [Download Here](data/web_marketing.csv)  
+The dashboard is based on the following web analytics data that tracks sessions, conversions and revenue.  
+- A sample dataset can be provided for testing: [Download Here](https://github.com/NusaibaZaman/Web-Marketing-Analysis)
